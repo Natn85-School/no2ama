@@ -1,0 +1,9 @@
+Titel; Autor; Genre; Preis; ISBN;
+Der Alchemist; Paulo Coelho; Roman; 12.99; 978-3257237;
+1984; George Orwell; Dystopie; 10.50; 978-3548234;
+Sapiens; Yuval Harari; Sachbuch; 16.99; 978-3570552;
+Harry Potter; J.K. Rowling; Fantasy; 14.99; 978-3551551;
+Die Verwandlung; Franz Kafka; Klassiker; 8.50; 978-3150096;
+Clean Code; Robert Martin; IT; 34.99; 978-0132350;
+Der Hobbit; J.R.R. Tolkien; Fantasy; 12.50; 978-3608938;
+Tschick; Wolfgang Herrndorf; Jugendbuch; 9.99; 978-3499256;
